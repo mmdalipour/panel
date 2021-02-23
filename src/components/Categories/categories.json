@@ -1,0 +1,53 @@
+[
+  {
+    "_id": "5fdb8a98d0bacf4000525442",
+    "products": [],
+    "created": 1425535732,
+    "name": "دسته بندی"
+  },
+  {
+    "_id": "5fdb8a98e31f0e2498b44112",
+    "products": [],
+    "created": 1495973724,
+    "name": "دسته بندی",
+    "parentId": "5fdb8a98d0bacf4000525442"
+  },
+  {
+    "_id": "5fdb8a98212ca9a49891c302",
+    "products": [],
+    "created": 1604786477,
+    "name": "دسته بندی",
+    "parentId": "5fdb8a98d0bacf4000525442"
+  },
+  {
+    "_id": "5fdb8a98f8ea6f3220c431ed",
+    "products": [],
+    "created": 1453984244,
+    "name": "دسته بندی",
+    "parentId": "5fdb8a98212ca9a49891c302"
+  },
+  {
+    "_id": "5fdb8a98a3533db4877b2465",
+    "products": [],
+    "created": 1560415322,
+    "name": "دسته بندی"
+  },
+  {
+    "_id": "5fdb8a98488e2610903072fd",
+    "products": [],
+    "created": 1388993140,
+    "name": "دسته بندی"
+  },
+  {
+    "_id": "5fdb8a984d3f4344ac9c2f82",
+    "products": [],
+    "created": 1606970782,
+    "name": "دسته بندی"
+  },
+  {
+    "_id": "5fdb8a986540a74759b32210",
+    "products": [],
+    "created": 1449462331,
+    "name": "دسته بندی"
+  }
+]
